@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+
+h1 {
+    font-family: "Big Shoulders";
+    font-weight: bold;
+    font-size: 2.5rem;
+}
